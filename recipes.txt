@@ -1,3 +1,1 @@
-Tarif 1Tarif 2Func generateRandomNumber() -> Int {
-	Int.random(in: 1..<10)
-}
+Tarif 1Tarif 2Func generateRandomNumber(upperValue: Int) -> Int {	Int.random(in: 1..<upperValue)}
